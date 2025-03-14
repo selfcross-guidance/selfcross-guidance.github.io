@@ -1,14 +1,14 @@
-# Nerfies
+# SelfCross-Guidance
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains the source code for the [SelfCross-Guidance website]([https://selfcross-guidance.github.io/]).
 
-If you find Nerfies useful for your work please cite:
+If you find SelfCross-Guidance useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@inproceedings{2025selfcross,
+  author    = {Weimin, Qiu and Jieke, Wang and Meng, Tang},
+  title     = {Self-Cross Diffusion Guidance for Text-to-Image Synthesis of Similar Subjects},
+  booktitle   = {Computer Vision and Pattern Recognition Conference},
+  year      = {2025},
 }
 ```
 
